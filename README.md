@@ -16,7 +16,7 @@ Each training and test example is assigned to one of the following labels:
 
 0: T-shirt/top 1: Trouser 2: Pullover 3: Dress 4: Coat 5: Sandal 6: Shirt 7: Sneaker 8: Bag 9: Ankle boot
 
-# Source
+## Source
 
 https://github.com/zalandoresearch/fashion-mnist
 
@@ -24,7 +24,7 @@ It is included in tensorflow.datasets
 
 You can import it directly using tensorflow.
 
-# Project Overview:
+## Project Overview:
 
 1- Exploratory Data Analysis
 
